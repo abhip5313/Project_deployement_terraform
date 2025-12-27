@@ -16,7 +16,7 @@ This setup follows real-world cloud architecture best practices with proper **se
 
 ## 🏗️ Architecture Diagram (Logical)
 
-![AWS 3-Tier Architecture](architecture.gif)
+![AWS 3-Tier Architecture](architecture.gif.png)
 
 
 ---
